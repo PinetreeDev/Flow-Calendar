@@ -1,1 +1,1 @@
-export {NgCalendarModule} from './calendar.module';
+export { NgCalendarModule } from './calendar.module';

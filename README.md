@@ -1,9 +1,6 @@
-# Ionic2-Calendar directive
+# Flow-Calendar
 
-Ionic2 calendar directive
-
-[![version](https://img.shields.io/npm/v/ionic2-calendar/latest.svg)](https://www.npmjs.com/package/ionic2-calendar)
-[![GitHub License](https://img.shields.io/npm/l/ionic2-calendar.svg)](https://raw.githubusercontent.com/twinssbc/Ionic2-Calendar/master/LICENSE)
+Flow-Calendar is Pinetree's fork of [Ionic2-Calendar](https://github.com/twinssbc/Ionic2-Calendar) by [twinssbc](https://github.com/twinssbc). The rest of this README is from the original project and will be updated in the future.
 
 # Demo
 https://twinssbc.github.io/Ionic2-Calendar/demo/
