@@ -6,6 +6,7 @@ import { ICalendarComponent, IView, CalendarMode, QueryMode } from './calendar';
 
 @Injectable()
 export class CalendarService {
+
     queryMode: QueryMode;
     currentDateChangedFromParent$: Observable<Date>;
     currentDateChangedFromChildren$: Observable<Date>;
@@ -131,4 +132,5 @@ export class CalendarService {
     loadEvents() {
         this.eventSourceChanged.next();
     }
+    
 }

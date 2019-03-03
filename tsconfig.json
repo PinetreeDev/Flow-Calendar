@@ -16,9 +16,9 @@
     "src/calendar.service.ts",
     "src/index.ts",
     "src/calendar.module.ts",
-    "src/monthview.ts",
-    "src/weekview.ts",
-    "src/dayview.ts",
+    "src/monthview/monthview.ts",
+    "src/weekview/weekview.ts",
+    "src/dayview/dayview.ts",
     "src/init-position-scroll.ts",
     "typings/globals/es6-shim/index.d.ts"
   ],
